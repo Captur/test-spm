@@ -16,7 +16,7 @@ let package = Package(
     targets: [
     .binaryTarget(
             name: "CapturMicromobilityEvents",
-            url: "https://your.cdn.com/YourFramework.zip",
+            url: "https://github.com/Captur/test-spm/releases/download/0.0.1/CapturMicromobilityEvents.xcframework.zip",
             checksum: "7245b04da1c060466c03593b71aff9b63f204a93554e712a43ef4f7ce8c3d583"
         )
     ]
