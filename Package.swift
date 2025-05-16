@@ -11,7 +11,7 @@ let package = Package(
     products: [
     .library(
             name: "CapturMicromobilityEvents",
-            targets: ["Test SPM"])   // public name
+            targets: ["CapturMicromobilityEvents"])   // public name
         ],
     targets: [
     .binaryTarget(
